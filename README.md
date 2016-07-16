@@ -2,6 +2,9 @@
 
 iOS Application that allows users to make searches for location and present the results in a list, allowing them to be presented in a map view inside the app. Places can be stored and deleted.
 
+## Motivation
+I did this sample project in order to show how my Objective-C coding looks like.
+
 ## Design Patterns
 
 - MVC
