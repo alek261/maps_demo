@@ -22,6 +22,7 @@
     
     [GMSServices provideAPIKey:MAPS_API_KEY];
     [[RestKitManager sharedInstance] initNetwork];
+    // some comment
     
     
     return YES;
